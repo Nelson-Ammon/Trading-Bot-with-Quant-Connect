@@ -15,12 +15,11 @@ I used Quant Connects website that has a built in API and it made it really easy
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Quant Connect ](https://www.quantconnect.com/)
 * [Trading Strategies](hhttps://www.tradingview.com/scripts/?script_type=strategies)
 
 # Future Work
 
 * Make a better bot that takes in more dataa to make a better decison.
-* Backtest the bot of various assets 
-* 
+* Backtest the bot with various assets 
+* Change the bot to trade on a shorter time frame.
