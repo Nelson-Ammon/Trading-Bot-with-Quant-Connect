@@ -16,7 +16,7 @@ I used Quant Connects website that has a built in API and it made it really easy
 # Useful Websites
 
 * [Quant Connect ](https://www.quantconnect.com/)
-* [Trading Strategies](hhttps://www.tradingview.com/scripts/?script_type=strategies)
+* [Trading Strategies](https://www.tradingview.com/scripts/?script_type=strategies)
 
 # Future Work
 
