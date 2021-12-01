@@ -7,7 +7,7 @@ So if the asset appreciates 15% and then drops 5% then you made 10% off that tra
 
 My big purpose of doing this bot was to learn about how trading bots work. I also really enjoy trading myself so it was a fun project to bring together a passion in computer science and in markets. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Ip-k0JZ0yfM)
 
 # Development Environment
 
@@ -17,7 +17,7 @@ I used Quant Connects website that has a built in API and it made it really easy
 
 {Make a list of websites that you found helpful in this project}
 * [Quant Connect ](https://www.quantconnect.com/)
-* [Web Site Name](http://url.link.goes.here)
+* [Trading Strategies](hhttps://www.tradingview.com/scripts/?script_type=strategies)
 
 # Future Work
 
